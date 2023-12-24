@@ -1,5 +1,5 @@
 
-# Our secret code, the date of the first sunday of each month
+# Our secret code, the date of the first sunday of each month 
 code = "743752741631"
 
 # A list containing the days of the week
